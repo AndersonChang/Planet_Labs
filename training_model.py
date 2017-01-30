@@ -1,12 +1,9 @@
 from tensorflow.examples.tutorials.mnist import input_data
 import tensorflow as tf 
 import numpy as np 
-import cv2
 
 # Load MNIST Data
 mnist = input_data.read_data_sets('MNIST_data',one_hot=True)
-input_image_old = cv2.imread('user_image.JPG',0)
-input_image = cv2.resize(input_image_old,(28,28), interpolation = cv2.INTER_LINEAR)
 
 # Accuracy Calculation
 def compute_accuracy(v_xs,v_ys):

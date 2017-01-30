@@ -4,7 +4,7 @@
 
 - Python >=3.4
   - TensorFlow 0.11.0
-- Node >=6.9
+  - Opencv 3.0.0
 
 
 ### How to run ###

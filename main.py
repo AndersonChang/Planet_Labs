@@ -1,7 +1,6 @@
 import os
 import cv2
 import cnn_model as cm
-import tensorflow as tf
 from flask import Flask, jsonify, render_template, request
 
 __author__ = 'yungfengchang'

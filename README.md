@@ -25,10 +25,12 @@
 	- Check Result
 	- Input images will be saved into "Database" (Like MySQL)
 
-### Notice that in "Test" folder, "1.png" is a valid mnist image , ###
-### "2.JPG", "3.JPG", "4.JPG" are invalid images that will return 404 ###
+### [Notice] ### 
+- In "Test" folder, "1.png" is a valid mnist image , while "2.JPG", "3.JPG", "4.JPG" are invalid images that will return 404 error
 
-### Please Check "screenshot" folder to see sample result ###
+- You can run "training_model.py" to generate weights through Convolutional Neural Network.
+
+### Please Check "screenshot" folder to see sample results ###
 
 - PS : model.ckpt is around 98 % accuracy
 

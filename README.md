@@ -19,6 +19,6 @@
 	- Open main.py in Sublime or PyCharm IDE
 	- Run main.py
 	- Open Link "http://127.0.0.1:4555/" in your browser
-	- ![alt](/screenshot/step_1.JPG)
-	- ![alt](/screenshot/step_2.JPG)
+	- https://github.com/AndersonChang/Planet_Labs/screenshot/step_1.JPG
+	- https://github.com/AndersonChang/Planet_Labs/screenshot/step_2.JPG
 
